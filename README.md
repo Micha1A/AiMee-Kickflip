@@ -1,11 +1,7 @@
-import os
-
-readme_content = """# ⚡ AiVee-Kickflip 2.0
-
 ### **Quantum-Resistant Stealth Encryption Engine**
 *Engineered by **Michael Barlozewski** ([g.dev/avx](https://g.dev/avx))*
 
----
+-----
 
 ![AiVee-Kickflip UI Preview](assets/ui-preview.png)
 
@@ -78,10 +74,3 @@ Dev-Profile: g.dev/avx
 Focus: Cryptography, Stealth-Tech, AudHD-driven Development.
 
 Disclaimer: This tool is intended for privacy protection. Use it responsibly and in accordance with local laws regarding cryptography.
-"""
-
-Save the file
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
-
-print("readme_md_generation")# AiMee-Kickflip
